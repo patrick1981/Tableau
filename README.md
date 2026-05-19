@@ -2,7 +2,7 @@
 **Patrick Duff** | Data Analyst  
 U.S. Navy Veteran | Johns Hopkins AI Graduate Candidate
 
-Portfolio: [github.com/patrick1981/Tableau](https://github.com/patrick1981/Tableau)
+Portfolio: [github.com/patrick1981/tableau](https://github.com/patrick1981/tableau)
 
 ---
 
