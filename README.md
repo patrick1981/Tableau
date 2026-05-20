@@ -3,7 +3,7 @@
 **Patrick Duff** | Technical Information Specialist  
 🎓 Johns Hopkins Information Systems & Artificial Intelligence (ISAI) Graduate Candidate | MBA (UMass Boston, 3.8 GPA)
 
-💼 [LinkedIn](https://www.linkedin.com/in/patrickduff59/) | 💻 [GitHub](https://github.com/patrick1981/Tableau)
+💼 [LinkedIn](https://www.linkedin.com/in/patrickduff59/) | 💻 [GitHub](https://github.com/patrick1981/tableau)
 
 ---
 
